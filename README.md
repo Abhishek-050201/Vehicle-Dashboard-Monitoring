@@ -39,10 +39,3 @@ This embedded systems project simulates a basic **vehicle dashboard** using an *
 6. **Trigger alerts** using buzzer based on speed thresholds.
 
 ---
-
-## 🧠 Logic Flow
-
-[ADC0: Speed Input] ---> [PWM Signal Generation] ---> [Speed Display on LCD]
-                                                   |
-[ADC1: Temp Input] --> [7-Segment Display (SPI)]   |
-                                                   +--> [Buzzer Alert if Speed > Threshold]
