@@ -11,8 +11,8 @@ This embedded systems project simulates a basic **vehicle dashboard** using an *
 - 📺 **LCD Display** showing current speed
 - 🔢 **7-Segment Display** (via SPI) showing engine temperature
 - 🎯 **Speed Alerts**:
-  - Over 80 kmph: Quick warning beep
-  - Over 120 kmph: Continuous over-speeding warning
+  -> Over 80 kmph: Quick warning beep
+  -> Over 120 kmph: Continuous over-speeding warning
 - 🔊 **Buzzer Alerts** for safety
 - ⚙️ Peripheral integration: ADC, SPI, PWM, LCD, GPIO, Timer
 
