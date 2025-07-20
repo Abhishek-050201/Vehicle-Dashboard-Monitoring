@@ -34,13 +34,13 @@ This embedded systems project simulates a basic **vehicle dashboard** using an *
 
 VehicleDashboard/
 │
-├── main.c # Main application logic
-├── lcd_header.h # LCD interfacing functions
-├── spi_header.h # SPI setup for 7-segment display
-├── adc_header.h # ADC initialization and conversion
-├── pwm_header.h # PWM setup for speed simulation
-├── timer_header.h # Delay and timer functions
-└── README.md # Project documentation
+├── main.c              # Main application logic
+├── lcd_header.h        # LCD interfacing functions
+├── spi_header.h        # SPI setup for 7-segment display
+├── adc_header.h        # ADC initialization and conversion
+├── pwm_header.h        # PWM setup for speed simulation
+├── timer_header.h      # Delay and timer functions
+└── README.md           # Project documentation
 
 
 ---
